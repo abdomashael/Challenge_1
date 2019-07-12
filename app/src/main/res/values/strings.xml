@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Challenge 1</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My profile</string>
+    <string name="welcome_to_alc_4_0">welcome to ALC 4.0</string>
+    <string name="alc_4_phase_1">ALC 4 Phase 1</string>
+    <string name="my_name">Abdelrahman Mashael</string>
+    <string name="track">Track:</string>
+    <string name="android">Android</string>
+    <string name="egypt">Egypt</string>
+    <string name="country">Country:</string>
+    <string name="email">Email:</string>
+    <string name="abdomashael_yahoo_com">abdomashael@yahoo.com</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="phone_no">00201069332348</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="abdo_mashael">abdo mashael</string>
+    <string name="url">https://andela.com/alc/</string>
+</resources>
